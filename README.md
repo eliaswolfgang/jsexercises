@@ -13,6 +13,6 @@
  ## Part 2 (javascript-2)
  Exercises from [The Complete Mastery of JavaScript, Part 2](https://codewithmosh.com/p/object-oriented-programming-in-javascript).
 
- All modules here are designed to be run using a web browser, except for module-3. Included in each module is a cheat sheet with summaries of the topics covered in that module. All cheat sheets are source code, taken directly from the course materials.
+ All modules here are designed to be run using a web browser, except for module-3 and module-5. Included in each module is a cheat sheet with summaries of the topics covered in that module. All cheat sheets are source code, taken directly from the course materials.
 
  
